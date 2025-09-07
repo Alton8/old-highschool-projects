@@ -1,4 +1,4 @@
-A collection of my old code.org projects from high school. Spent a lot of time on these and really enjoyed working on them.
+A collection of my old code.org projects from high school. Spent a lot of time on these and really enjoyed working on them. Mostly used code.org built in functions and datasets.
 
 To try them out...
 

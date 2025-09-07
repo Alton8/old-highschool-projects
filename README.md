@@ -1,4 +1,4 @@
-A collection of my old code.org projects from high school. Spent a lot of time on these and really enjoyed working on them. This is what started my passion for computer science.
+A collection of my old code.org projects from high school. Spent a lot of time on these and really enjoyed working on them.
 
 To try them out...
 

@@ -1,5 +1,3 @@
-A collection of my old code.org projects from high school. Spent a lot of time on these and really enjoyed working on them. Mostly used code.org built in functions and datasets.
-
 Try them out!
 
 A fun website I made freshman year when I played Tetris a lot
